@@ -1,4 +1,4 @@
-# Abdul Rehman - Data Scientist Portfolio
+# Abdul Rehman - Data Scientist
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 
